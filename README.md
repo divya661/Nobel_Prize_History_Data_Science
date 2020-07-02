@@ -21,3 +21,5 @@ Fruitful information is extracted from the dataset to study the trends in nobel 
 Or
 Download the zip folder & unzip the folder downloaded
 2) Open the jupyter notebook and run the file nobel_prize_history.ipynb
+3) Install the requirements by running the command in terminal: pip install requirements.txt
+
