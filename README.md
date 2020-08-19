@@ -17,7 +17,19 @@ Fruitful information is extracted from the dataset to study the trends in nobel 
 10. Displaying oldest and youngest nobel prize winners
 
 # Instructions to run the code
-1) clone the repository : 
+1. Make a virtual environment
+
+```
+python3 -m venv env
+```
+
+2. Activate the virtual environment
+
+```
+source env/bin/activate # This command is for linux 
+```
+
+3) clone the repository : 
 
 ```
 git clone https://github.com/divya661/Nobel_Prize_History_Data_Science.git
@@ -27,8 +39,8 @@ Or
 
 Download the zip folder & unzip the folder downloaded
 
-2) Install the requirements by running the command in terminal:
+4) Install the requirements by running the command in terminal:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
-3) Open the jupyter notebook and run the file 'nobel_prize_history.ipynb'
+5) Open the jupyter notebook and run the file 'nobel_prize_history.ipynb'
